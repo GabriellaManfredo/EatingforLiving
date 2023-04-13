@@ -1,4 +1,4 @@
-# EatingforLiving
+# Eating for Living
 This is a project of a landing page for a fictional expert in healthy eating, developed as part of the "Jornada Zero à Primeira Vaga" event offered by RocketSeat. The project was created with the objective of training and grounding basic knowledge of HTML and CSS, as part of the web development learning process.
 
 ## Objective
